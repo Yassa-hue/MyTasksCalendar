@@ -1,0 +1,50 @@
+id priority period
+name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    math
+        => tylor, maclorin
+        => partial fractions
+        => serieses
+        => circle
+
+    physics
+        => ch1.1
+        => ch1.2
+        => ch1.3
+        => ch2.1
+
+    digital
+        => ch1-2
+        => ch3-4
+        => ch5-6
+        => ch7
+
+    networks
+        => ch1 PDFs                done
+        => ch2 protocols, OSI
+        => ch3 devices
+        => ch4 TCP/IP
+        => ch5 wireless
+ */
