@@ -147,7 +147,7 @@ public:
     }
 
     void show () {
-        cout << "This task should take " << period << "h, and should be done (the inverse priority) before " << priority << " days: " << name << endl;
+        cout << "This task should take " << period << "h, and should be done before " << priority << " days: " << name << ' ' << ((priority <= 1) ? "TOP PRIORITY" : "") << endl;
     }
 
     bool operator > (task *_task) const {
